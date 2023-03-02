@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sirit1
 - 👀 I’m interested in data analytics, dasta science, power BI
-- 💞️ I’m looking to collaborate on coding data for python
+- 💞️ I’m looking to work in data analytics remotly
 - 📫 How to reach me alejandro.sirit@gmail.com +584147315760 whatsapp
 
 <!---
